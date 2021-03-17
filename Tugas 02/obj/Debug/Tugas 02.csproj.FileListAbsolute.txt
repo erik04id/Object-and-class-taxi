@@ -1,0 +1,9 @@
+D:\20.11.3363\Tugas 02\Tugas 02\bin\Debug\Tugas 02.exe.config
+D:\20.11.3363\Tugas 02\Tugas 02\bin\Debug\Tugas 02.exe
+D:\20.11.3363\Tugas 02\Tugas 02\bin\Debug\Tugas 02.pdb
+D:\20.11.3363\Tugas 02\Tugas 02\obj\Debug\Tugas_02.Properties.Resources.resources
+D:\20.11.3363\Tugas 02\Tugas 02\obj\Debug\Tugas 02.csproj.GenerateResource.cache
+D:\20.11.3363\Tugas 02\Tugas 02\obj\Debug\Tugas 02.csproj.CoreCompileInputs.cache
+D:\20.11.3363\Tugas 02\Tugas 02\obj\Debug\Tugas 02.exe
+D:\20.11.3363\Tugas 02\Tugas 02\obj\Debug\Tugas 02.pdb
+D:\20.11.3363\Tugas 02\Tugas 02\obj\Debug\Tugas 02.csprojAssemblyReference.cache
